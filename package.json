@@ -7,7 +7,7 @@
     "@material-ui/icons": "latest",
     "@material-ui/styles": "latest",
     "gatsby": "latest",
-    "gatsby-image": "lates",
+    "gatsby-image": "latest",
     "gatsby-plugin-material-ui": "latest",
     "gatsby-plugin-react-helmet": "latest",
     "gatsby-plugin-sharp": "latest",
